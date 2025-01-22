@@ -26,12 +26,14 @@
 | **ForPaw** | Platform connecting stray dogs with caring adopters | Feb 2024 - Sep 2024 | [GitHub]([https://github.com/leejongil1046/PNUSW-2024-team-08](https://github.com/PickyPeople/ForPaw_FE-public-)) |
 <br>
 
-  
-## 📊 Github Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PickyPeople&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PickyPeople&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PickyPeople&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PickyPeople&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PickyPeople&theme=default&utcOffset=8)
+
+<!--
+  ## 📊 Github Analytics
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PickyPeople&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PickyPeople&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PickyPeople&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PickyPeople&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PickyPeople&theme=default&utcOffset=8)
+-->
 
 
