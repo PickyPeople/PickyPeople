@@ -23,7 +23,7 @@
 ## 📝 Major Projects
 | Title | Description | Duration | Link |
 |---|---|---|---|
-| **ForPaw** | Platform connecting stray dogs with caring adopters | Feb 2024 - Sep 2024 | [GitHub]([https://github.com/leejongil1046/PNUSW-2024-team-08](https://github.com/PickyPeople/ForPaw_FE-public-)) |
+| **ForPaw** | Platform connecting stray dogs with caring adopters | Jan 2024 - Sep 2024 | [GitHub]([https://github.com/PickyPeople/ForPaw_FE-public-)] |
 <br>
 
 
