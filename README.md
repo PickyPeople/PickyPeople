@@ -21,17 +21,9 @@
 ## 📝 Major Projects
 | Title | Description | Duration | Link |
 |---|---|---|---|
-| **ForPaw** | Platform connecting stray dogs with caring adopters | Feb 2024 - Sep 2024 | [GitHub](https://github.com/leejongil1046/PNUSW-2024-team-08) |
-| **LLMN** | Log analysis & anomaly detection using LLM in a multi-cloud environment (Capstone Design) | Aug 2024 - Nov 2024 | [GitHub](https://github.com/leejongil1046/LLMN) |
-
+| **ForPaw** | Platform connecting stray dogs with caring adopters | Feb 2024 - Sep 2024 | [GitHub]([https://github.com/leejongil1046/PNUSW-2024-team-08](https://github.com/PickyPeople/ForPaw_FE-public-)) |
 <br>
 
-## 🏆 Awards
-
-| Rank | Event | Link |
-|-------|-------|------|
-| **3rd Place** | 2024 PNU Creative Convergence SW Hackathon | [GitHub](https://github.com/leejongil1046/PNUSW-2024-team-08) |
-| **2nd Place** | 2024 PNU Capstone Design (Graduation Project) | [GitHub](https://github.com/leejongil1046/Capstone-2024-team-44) |
   
 <!--
 ## 📊 Github Analytics
