@@ -26,6 +26,9 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Collaboration Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 <br>
 
 ## 📝 Major Projects
@@ -36,9 +39,16 @@
 
 <br>
 
+## 💼 Experience
+
+| Company | Position | Period | Location |
+|---|---|---|---|
+| **dataX** | Developer | May 2025 - May 2026 | Tokyo, Japan |
+
+<br>
+
 ## 💡 Focus Areas
 - **Full Stack Development**: Building end-to-end web applications
 - **User Experience**: Crafting intuitive and responsive interfaces
 - **Service Architecture**: Understanding and designing scalable web services
 - **Cloud Infrastructure**: Exploring AWS and cloud-based solutions
-
